@@ -12,7 +12,7 @@ Java · Android (minSdk 31, targetSdk 36) · Firebase Auth + Firestore · JUnit,
 
 ## Team
 
-Built by Group 33: Daniel Nguyen, Colin Gordon, Conall McCooeye, Katie Yoon, and REAL NAME HERE. This repository is a mirror of the team's original at
+Built by Group 33: Daniel Nguyen, Colin Gordon, Conall McCooeye, Katie Yoon, and ivasliv. This repository is a mirror of the team's original at
 [uOttawaSEG/project-group-33](https://github.com/uOttawaSEG/project-group-33), preserved here with
 its full history and every author's commits intact. The original remains the course record.
 
