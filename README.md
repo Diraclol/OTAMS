@@ -1,4 +1,4 @@
-# Project Group 33
+# OTAMS (Project Group 33)
 
 CircleCI Build Status [![CircleCI](https://dl.circleci.com/status-badge/img/gh/uOttawaSEG/project-group-33/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/uOttawaSEG/project-group-33/tree/main)
 
